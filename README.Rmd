@@ -1,0 +1,7 @@
+ReproducibleResearch
+====================
+
+A repository containing assignments of Coursera's Reproducible Research (by Roger Peng):
+
++ PA1_template.Rmd for assignment no 1
++ PA2_template.Rmd for assignment no 2 
